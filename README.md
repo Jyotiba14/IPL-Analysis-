@@ -1,2 +1,2 @@
-# IPL-Analysis-
+# IPL DATA ANALYSIS
 The craze for cricket in india is huge and million of cricket fans are glued to their television sets to watch there favorites players battle it out for their country . In 2008 ,  BCCI introduced IPL  which is a now  a professional t20 league , where players for different countries play together with our Indian domestic and international player to represent their franchise and win the ultimate IPL trophy . The brand valuation of the IPL was  rupees 458 billion in 2020 which is expected to rise with its tremendous popularity worldwide . So lets analyze the IPL through  various stats and learn the insights of it . 
