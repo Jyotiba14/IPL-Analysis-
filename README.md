@@ -6,7 +6,7 @@ The craze for cricket in india is huge and million of cricket fans are glued to 
 file link - https://drive.google.com/file/d/1TdZsQPJeVn8IXFDN3VBBODNu6IkCsjtQ/view?usp=sharing
 
 # Motivation 
-Just like every other cricket fan i was curious to know some stats about my favourite IPL time . Though i could have found it easily but the thrill of carrying out an anlaysis on your own and getting to the insights hits you differnetly and pumps you up . Also it would  help me in learning the POWER BI tool more and more and Hence i decided to do an analsyis on the dataset 
+Just like every other cricket fan i was curious to know some stats about my favourite IPL team -Royal challengers bangalore  . Though i could have found it easily but the thrill of carrying out an anlaysis on your own and getting to the insights hits you differnetly and pumps you up . Also it would  help me in learning the POWER BI tool more and more and hence i decided to do an analsyis on the dataset 
 
 # Objectives 
 1. To find the team with most wins , player with most Man of the matches , most sixes , most fours , most wickets etc. 
